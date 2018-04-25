@@ -9,3 +9,5 @@ cd ~/Vimpossible/NLKNguyen/papercolor-16/gnome-terminal && ./base16-papercolor-d
 cd ~/Vimpossible && cp PaperColor.vim ~/.vim/bundle//vim-airline-themes/autoload/airline/themes/
 cd ~/Vimpossible && cp papercolor.vim ~/.vim/bundle//vim-airline-themes/autoload/airline/themes/
 echo "Dear User, \n please do the following steps finish up the process \n 1) vim +PluginInstall +qall \n 2)"
+
+###REQUIRES FUCKIGN PYTHON FUCK ME!!!
