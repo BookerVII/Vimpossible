@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/lpedro/Git/lhotse-puppet-secret'
+let g:netrw_dirhist_2='/home/lpedro/Git/lhotse-puppet-secret/data'
+let g:netrw_dirhist_3='/home/lpedro/Git/lhotse-puppet-secret/data/product'
+let g:netrw_dirhist_4='/home/lpedro/Git/lhotse-puppet-secret'
+let g:netrw_dirhist_5='/home/lpedro/Git/lhotse-puppet-secret/data'
+let g:netrw_dirhist_6='/home/lpedro/Git/lhotse-puppet-secret/data/product'
+let g:netrw_dirhist_7='/home/lpedro/Git/lhotse-puppet-secret'
+let g:netrw_dirhist_8='/home/lpedro/Git/lhotse-puppet-secret/data'
+let g:netrw_dirhist_9='/home/lpedro/Git/lhotse-puppet-secret/data/product'
