@@ -1,70 +1,14 @@
-{
   "ip_prefix": "18.153.0.0/16",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "18.184.0.0/15",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "18.194.0.0/15",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "18.196.0.0/15",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "35.156.0.0/14",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "52.28.0.0/16",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "52.29.0.0/16",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "52.46.184.0/22",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "52.57.0.0/16",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "52.58.0.0/15",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "52.94.248.112/28",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "52.95.248.0/24",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "52.95.255.128/28",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
-{
   "ip_prefix": "54.93.0.0/16",
-  "region": "eu-central-1",
-  "service": "EC2"
-}
