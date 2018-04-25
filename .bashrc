@@ -83,6 +83,9 @@ if [ -x /usr/bin/dircolors ]; then
     alias grep='grep --color=auto'
     alias fgrep='fgrep --color=auto'
     alias egrep='egrep --color=auto'
+    alias get='sudo apt-get install $2 -y'
+    alias aws-pw='pwgen -y -s 20'
+		alias tmuxattach='tmux attach-session -t BKR-X-VII'
 fi
 
 # colored GCC warnings and errors
